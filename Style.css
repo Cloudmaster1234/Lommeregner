@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.overskrift {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 10%;
+  }  
+
+input {
+    width: 80px;
+    padding: 5px;
+    margin: 5px;
+}
+
+button {
+    padding: 8px 12px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #008cba;
+    color: white;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #005f73;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
